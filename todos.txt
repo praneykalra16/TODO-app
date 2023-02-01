@@ -1,5 +1,4 @@
-clean
-eat
+sleepeat
 play
 rest
 ps4
