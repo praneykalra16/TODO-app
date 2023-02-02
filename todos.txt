@@ -1,6 +1,4 @@
 sleepeat
 play
 rest
-ps4
-ps6
 add
